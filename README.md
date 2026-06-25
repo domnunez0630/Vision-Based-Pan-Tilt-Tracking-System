@@ -30,9 +30,9 @@ The project combines:
 ## Current Progress
 
 - [x] GitHub repository created
-- [ ] Install Python
-- [ ] Install OpenCV
-- [ ] Install MediaPipe
+- [x] Install Python
+- [x] Install OpenCV
+- [x] Install MediaPipe
 - [ ] Detect hand
 - [ ] Output X/Y coordinates
 - [ ] Simulate servo movement
