@@ -33,8 +33,8 @@ The project combines:
 - [x] Install Python
 - [x] Install OpenCV
 - [x] Install MediaPipe
-- [ ] Detect hand
-- [ ] Output X/Y coordinates
+- [x] Detect hand
+- [x] Output X/Y coordinates
 - [ ] Simulate servo movement
 - [ ] Design pan mechanism
 - [ ] Design tilt mechanism
